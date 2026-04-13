@@ -56,6 +56,7 @@ Random Forest:
 XGBoost:
 - `n_estimators`, `learning_rate`, `max_depth`
 - `subsample`, `colsample_bytree`, `random_state`, `min_child_weight`
+
 სამივე მოდელზე ცალ-ცალკე გავტესტე პარამეტრები და ვნახე, თუ რომელი მოდელი მაძლევდა ყველაზე დაბალ კვადრატულ გადახრას.
 ### Random Forest
 **RMSE = 30003.39**
